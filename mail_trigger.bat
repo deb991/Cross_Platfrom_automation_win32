@@ -1,0 +1,1 @@
+cd C:\Program Files\Microsoft Office\Office14\ && outlook.exe /c ipm.note /m "mailto:debashis.biswas@shell.com&cc=prajakta.das@shell.com&bcc=arunita.chanda@shell.com&subject=This is a test mail using Batch&body=
